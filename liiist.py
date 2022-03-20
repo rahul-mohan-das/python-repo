@@ -1,0 +1,11 @@
+a=["apple","banana","cherry","plum","raspberry","peach"]
+print(a[0:2])
+print(a[1:3])
+print(a[2:4])
+print(a[3:5])
+print(a[4:])
+print(a[-2:])
+print(a[-3:-1])
+print(a[-4:-2])
+print(a[-5:-3])
+print(a[-6:-4])

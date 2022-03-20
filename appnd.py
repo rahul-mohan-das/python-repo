@@ -1,0 +1,9 @@
+group=["a","b","c","d","e"]
+##group.append("f")
+##print(group)
+##group[1]="test"
+##print(group)
+##group[1:3]="1","2"
+##print(group)
+group.insert(3,"g")
+print(group)
